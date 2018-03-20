@@ -1,5 +1,5 @@
-# Bludit Documentation English Version
-Here you can find all the documentation about Bludit in English.
+# Documentazione di Bludit Versione italiana
+Qui puoi trovare la documentazione di Bludit in italiano.
 
-This documentation is in sync with the website
-- https://docs.bludit.com/en/
+Questa documentazione viene sincronizzata con il sito web
+- https://docs.bludit.com/it/
