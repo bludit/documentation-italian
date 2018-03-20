@@ -1,26 +1,26 @@
-# Title: Add a read more link
+# Title: Aggiungere un collegamento Leggi Ancora
 <!-- Position: 3 -->
 <!-- Date: 2017-08-24 22:00:00 -->
 ---
-You can split the content of the page adding the tag `<!-- pagebreak -->` between the content to split.
+Puoi dividere il contenuto della pagina aggiungendo il tag `<!-- pagebreak -->` tra il contenuto da dividere.
 
 ![Read more link](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/read-more-link.png)
 
-Example of content:
+Esempio di contenuto:
 ```
-This is the first part of the content of the page.
+Questa è la prima parte del contenuto della pagina.
 
 <!-- pagebreak -->
 
-This is the second part of the page.
+Questa è la seconda parte della pagina.
 ```
 
 <div class="note">
-<div class="title">Video tutorial</div>
+<div class="title">Video Guida</div>
 <a href="https://www.youtube.com/watch?v=8M7RqkwmAoY">Youtube</a>
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-This feature is handled by the themes and not all the themes support it.
+<div class="title">Nota</div>
+Questa caratteristica viene gestita dai temi non tutti i temi la supportano.
 </div>
