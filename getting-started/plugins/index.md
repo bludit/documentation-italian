@@ -1,18 +1,19 @@
-# Title: Plugins
+# Title: Plugin
 <!-- Position: 5 -->
 ---
-Bludit supports plugins to extend its functionalities.
+Bludit supporta i plugin per estendere le sue funzionalità.
 
-Bludit comes with some preinstalled plugins. But not all are activated by default.
+Bludit ha già alcuni plugin preinstallati. Ma non tutti sono attivati in modo predefinito.
 
-You can download additional plugins from the website [Bludit Plugins](https://plugins.bludit.com).
 
-## How to install a plugin
-1. Download the zip file with the plugin.
-2. Uncompress the zip file.
-3. Copy the plugin folder into the folder `/bl-plugins/` on the server.
+Puoi scaricare dei plugin aggiuntivi dal sito web [Bludit Plugin](https://plugins.bludit.com).
 
-## How to activate and configure a plugin
-1. Go to the **Admin panel**, on the left sidebar go to **Settings > Plugins**.
-2. Look for the plugin on the list and click **Activate**.
-3. Most of the plugins allow some configurations when clicking **Settings**.
+## Come installare un plugin
+1. Scarica il file zip con il plugin.
+2. Decomprimi il file zip.
+3. Copia la cartella del plugin nella cartella `/bl-plugins/` sul server.
+
+## Come attivare è configurare un plugin
+1. Vai nel **Pannello di Amministrazione**, nella barra laterale a sinistra vai in **Impostazioni > Plugin**.
+2. Cerca il nome del plugin nell'elenco e fai clic su **Attiva**.
+3. La maggior parte dei plugin permettono alcune configurazioni quando si fa clic su **Impostazioni**.
