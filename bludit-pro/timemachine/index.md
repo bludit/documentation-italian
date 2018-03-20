@@ -1,24 +1,24 @@
 # Title: Timemachine
 <!-- Position: 2 -->
 ---
-Timemachine is a plugin for Bludit and allows you to go back to some particular state of your system. For example, you deleted unintentionally a page and you want to recover it, or you edit some properties from the settings and you want to recover the previous settings.
+Timemachine è un plugin per Bludit e ti permette di tornare indietro ad un particolare stato del tuo sistema. Per esempio, se hai cancellato non intenzionalmente una pagina e la vuoi recuperare, o modificare alcune proprietà dalle impostazioni e tu voglia recuperare le impostazioni precedenti.
 
-## Enable Timemachine
-- Go to the **admin area**
-- Go to **Settings > Plugins**
-- Search for the plugin **Timemachine** and click on the button **Activate**
-- Now each event on your website is stored.
+## Abilita Timemachine
+- Vai nell' **Area Amministrazione**
+- Vai in **Impostazioni > Plugin**
+- Cerca il plugin **Timemachine** e fai clic sul pulsante **Attiva**
+- Adesso ogni evento del tuo sito web viene salvato.
 
-## How to recover a previous state
-- Go to the **admin area**
-- Go to **Settings > Plugins**
-- Search for the plugin **Timemachine** and click on the button **Settings**
-- You can see a list of events ordered by date.
-- Search for the event and click on the button **Go back to this point**
-- Now the system goes back in time to the particular state.
+## Come recuperare uno stato precedente
+- Vai nell' **Area Amministrazione**
+- Vai in **Impostazioni > Plugin**
+- Cerca il plugin **Timemachine** e fai clic sul pulsante **Attiva**
+- Puoi vedere un elenco di eventi ordinati per data.
+- Cerca l'evento e fai clic sul pulsante **Torna indietro a questo punto**
+- Adesso il sistema torna indietro a quel particolare stato.
 
-## Video tutorial
-This video shows how to enable the plugin **Timemachine**; Then two new pages are created and one of them is deleted to test the recovery system.
+## Video Guida
+Questo video mostra come abilitare il plugin **Timemachine**; nel video vengono create due pagine e una di queste viene eliminata per testare il sistema di recupero.
 
 <div class="video-embed">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/30VuB1INVBg?rel=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
