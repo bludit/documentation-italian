@@ -1,17 +1,17 @@
-# Title: Requirements
+# Title: Requisiti
 <!-- Position: 2 -->
 ---
-You just need a web server with PHP support.
+Hai solo bisogno di un server web con il supporto a PHP.
 
-- PHP v5.3 or higher.
-- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) module for full UTF-8 support.
-- PHP [gd](http://php.net/manual/en/book.image.php) module for image processing.
-- PHP [dom](http://php.net/manual/en/book.dom.php) module for DOM manipulation.
-- PHP [json](http://php.net/manual/en/book.json.php) module for JSON manipulation.
-- Bludit supports almost every webserver:
+- PHP v5.3 o superiore.
+- PHP [mbstring](http://php.net/manual/en/book.mbstring.php) modulo per il supporto completo a UTF-8.
+- PHP [gd](http://php.net/manual/en/book.image.php) modulo per il processamento delle immagini.
+- PHP [dom](http://php.net/manual/en/book.dom.php) modulo per la manipolazione DOM.
+- PHP [json](http://php.net/manual/en/book.json.php) modulo per la manipolazione JSON.
+- Bludit supporta quasi tutti i server web:
   * [PHP Built-in web server](http://php.net/manual/en/features.commandline.webserver.php)
-  * Nginx with module [ngx_http_rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
-  * Apache with module [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
-  * Lighttpd with module [mod_rewrite](http://redmine.lighttpd.net/projects/1/wiki/docs_modrewrite)
+  * Nginx con modulo [ngx_http_rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html)
+  * Apache con modulo [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
+  * Lighttpd con modulo [mod_rewrite](http://redmine.lighttpd.net/projects/1/wiki/docs_modrewrite)
   * Hiawatha, [rewrite rules](https://www.hiawatha-webserver.org/howto/url_rewrite_rules)
-  * H2O, see the post [H2O HTTP/2 web server and Bludit](https://forum.bludit.org/viewtopic.php?f=6&t=1015) in the Support Forum
+  * H2O, vedi i post [H2O HTTP/2 web server e Bludit](https://forum.bludit.org/viewtopic.php?f=6&t=1015) sul forum di supporto
