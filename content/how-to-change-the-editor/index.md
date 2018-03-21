@@ -2,7 +2,7 @@
 <!-- Position: 5 -->
 <!-- Date: 2017-10-21 18:00:00 -->
 ---
-Bludit di default utilizza l'editor SimpleMDE - un editor semplice e pulito per il codice Markdown ma puoi anche scegliere di utilizzare TinyMCE che supporta il codice HTML ed è più "amichevole". SimpleMDE e TinyMCE sono preinstallati di default su Bludit, entrambi sono plugin e li puoi trovare nella sezione pluginboth are plugin.
+Bludit di default utilizza l'editor SimpleMDE - un editor semplice e pulito per il codice Markdown ma puoi anche scegliere di utilizzare TinyMCE che supporta il codice HTML ed è più "amichevole". SimpleMDE e TinyMCE sono preinstallati di default su Bludit, entrambi sono plugin e li puoi trovare nella sezione plugin.
 
 ## Come passare a TinyMCE
 - Entra nel **Pannello di Amministrazione**.
