@@ -1,30 +1,30 @@
-# Title: How to schedule content
+# Title: Come programmare il contenuto
 <!-- Position: 4 -->
 <!-- Date: 2017-08-24 22:00:00 -->
 ---
-You can prepare a page and schedule it to be published on your website at a different date.
+Puoi preparare una pagina e programmarla affinché venga pubblicata ad una data differente.
 
-To schedule:
-1. Create a new page, click on **New content** on the left sidebar.
-2. Click on the **Advanced** tab.
-3. Choose the date and time you want the page to be published.
-4. The status of the page needs to be **Published**.
-5. Complete the page, such as title, and content.
-6. Click **Save** button.
+Per programmare:
+1. Crea una nuova pagina, fai clic su **Nuovo contenuto** sulla barra laterale sinistra.
+2. Fai clic sul tab **Avanzate**.
+3. Seleziona la data e l'ora in cui vuoi che la pagina venga pubblicata.
+4. Lo stato della pagina deve essere **Pubblicato**.
+5. Completa la pagina, con il titolo, e il contenuto.
+6. Fai clic sul pulsante **Salva**.
 
-![How to schedule a page](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/scheduled-page.png)
+![Come programmare una pagina](https://df6m0u2ovo2fu.cloudfront.net/images/documentation-english/scheduled-page.png)
 
 <div class="note">
-<div class="title">Note</div>
-The scheduled content appears on the <b>Dashboard</b> under <b>Manage > Content</b> with a label <b>Scheduled</b>.
+<div class="title">Nota</div>
+Il contenuto programmato appare nella <b>Scrivania</b> sotto <b>Gestisci > Contenuto</b> con un etichetta <b>Programmato</b>.
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-The users can't access the page until the publish date.
+<div class="title">Nota</div>
+L'utente non può accedere alla pgina fino alla data di pubblicazione.
 </div>
 
 <div class="note">
-<div class="title">Note</div>
-You can modify the publish date by editing the page from <b>Manage > Content</b>.
+<div class="title">Nota</div>
+Puoi modificare la data di pubblicazione modificando la pagina da <b>Gestisci > Contenuto</b>.
 </div>

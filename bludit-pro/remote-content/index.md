@@ -1,17 +1,17 @@
-# Title: Remote Content
+# Title: Contenuto Remoto
 <!-- Position: 1 -->
 ---
-Remote Content plugin provides the feature to have all your content on Github or similar and stay in sync with your Bludit.
+Il plugin Contenuto Remoto ti offre la possibilità di avere tutto il tuo contenuto su GitHub o simili e rimanare sincronizzato con il tuo Bludit.
 
-For example, the [Bludit's Blog](https://blog.bludit.com) works with this plugin and the content of the site is on Github on this repository https://github.com/bludit/blog, when I want to create a new page, I create the page and upload to Github (push).
+Per esempio, il [Blog di Bludit](https://blog.bludit.com) funziona con questo plugin e il contenuto del sito è su Github in questo repository https://github.com/bludit/blog, quando voglio creare una nuova pagina, la creo e la carico su Github (push).
 
 ## Webhooks
-It's possible to define a webhook on Github to ping Bludit on each change of the content in the repository. The plugin provides the URL with the webhook, is recommended change the endpoint of the webhook with some random string.
+E' possibile definire il webhook su Github per effetuare il ping su Bludit ad ogni cambiamento del contenuto in questo repository. Il plugin offre l'URL del webhook, e raccomandato cambiare l'endpoint del webhook con alche stringhe casuali.
 
-## Video tutorial
-This video shows how to sync Bludit with Github.
+## Video Guida
+Questo video mostra come sincronizzare Bludit con Github.
 
-Here is a repository with three pages, each page has defined the date of publication, this repository is used in the video as an example.
+Qui c'è un repository con tre pagine, ogni pagina ha una data definita di pubblicazione, questo repository viene usato nel video come esempio.
 - https://github.com/bludit/remote-content-example
 
 <div class="video-embed">

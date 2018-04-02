@@ -1,16 +1,16 @@
 # Title: Bludit PRO
 <!-- Position: 100 -->
 ---
-## What is Bludit PRO?
-Bludit PRO is Bludit with extra remarkable plugins. Bludit PRO doesn't have to be purchased nor requires any special licensing to use it.
+## Che cosa è Bludit PRO?
+Bludit PRO è Bludit con dei plugin aggiuntivi eccezionali. Bludit PRO non deve acquistare niente e non richiede nessuna licenza speciale per essere utilizzato.
 
-Bludit PRO is available for Backers and Sponsors from Patreon. Donations and community support are what helps the project stay up and running. Support Bludit via Patreon today and enjoy all the great features of Bludit plus more with Bludit PRO!
+Bludit PRO è disponibile per i Sostenitori e gli Sponsor su Patreon. Le donazioni e il supporto della comunità è quello che aiuta il progetto a stare in piedi ed ad andare avanti. Supporta Bludit tramite Patreon oggi e goditi tutte le caratteristiche di Bludit con in più Bludit PRO!
 
-- Become a [Backer](https://www.patreon.com/bePatron?c=921115&rid=2458859)
-- Become a [Sponsor](https://www.patreon.com/bePatron?c=921115&rid=2458860)
+- Diventa un [Sostenitore](https://www.patreon.com/bePatron?c=921115&rid=2458859)
+- Diventa uno [Sponsor](https://www.patreon.com/bePatron?c=921115&rid=2458860)
 - [Patreon](https://www.patreon.com/bludit)
 
-## Plugins included in Bludit PRO
-- [Timemachine X](https://docs.bludit.com/en/bludit-pro/timemachine)
-- [Remote Content](https://docs.bludit.com/en/bludit-pro/remote-content)
-- Simple Stats
+## Plugin inclusi in Bludit PRO
+- [Timemachine X](https://docs.bludit.com/it/bludit-pro/timemachine)
+- [Contenuto Remoto](https://docs.bludit.com/iy/bludit-pro/remote-content)
+- Statistiche semplici

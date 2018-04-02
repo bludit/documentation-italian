@@ -1,16 +1,16 @@
 # Title: Introduction
 <!-- Position: 1 -->
 ---
-Bludit is a web application to build your own **website** or **blog** in seconds, it's completely **free and open source**. Bludit uses files in **JSON** format to store the content, you don't need to install or configure a database. You only need a web server with PHP support.
+Bludit è una applicazione web che ti permette di creare il tuo **sito web** o **blog** in pochi secondi, è completamente **gratuito e open source**. Bludit utilizza i file in formato **JSON** per salvare il contenuto, non hai bisogno quindi di installare o configurare un database. Hai solo bisogno di un server web con il supporto a PHP.
 
-<h2 id="support">Support</h2>
-Ask questions, get support and discuss about Bludit.
+<h2 id="support">Supporto</h2>
+Fai domande, ricevi supporto e discuti su Bludit.
 
 * [Gitter](https://gitter.im/bludit/support) Chat online
-* [Support forum](https://forum.bludit.org)
+* [Forum di supporto](https://forum.bludit.org)
 
-<h2 id="follow-bludit">Follow Bludit on</h2>
-Contact with the developers and users on different social networks and platforms.
+<h2 id="follow-bludit">Segui Bludit su</h2>
+Mettiti in contatto con gli sviluppatori  e gli altri utenti su diversi social network e piattaforme.
 
 * [Twitter](https://twitter.com/bludit) **@bludit**
 * [Facebook](https://www.facebook.com/bluditcms)
@@ -18,10 +18,11 @@ Contact with the developers and users on different social networks and platforms
 * [Youtube](https://www.youtube.com/channel/UCuLu0Z_CHBsTiYTDz129x9Q)
 * [Github](https://github.com/bludit/bludit)
 
-<h2 id="donations">Donations</h2>
-Donations and community support are what helps the project stay up and running. Make a donation via Paypal or support Bludit via Patreon and get Bludit PRO.
-* [Paypal](https://www.paypal.me/bluditpro/5)
-* [Patreon](https://www.patreon.com/bludit) and get Bludit PRO.
+<h2 id="donations">Donazioni</h2>
+Le donazioni e il supporto della comunità sono quello che aiutano il progetto ad essere attivo e a continuare a funzionare. Fai una donazione tramite PayPal o supporta Bludit tramite Pateron e ricevi Bludit PRO.
 
-<h2 id="license">License</h2>
-Bludit is open source software licensed under the [MIT license.](https://tldrlegal.com/license/mit-license)
+* [Paypal](https://www.paypal.me/bluditpro/5)
+* [Patreon](https://www.patreon.com/bludit) e ricevi Bludit PRO.
+
+<h2 id="license">Licenza</h2>
+Bludit è un software open source rilasciato sotto la [Licenza MIT.](https://tldrlegal.com/license/mit-license)
